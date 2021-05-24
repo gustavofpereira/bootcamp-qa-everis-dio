@@ -19,7 +19,7 @@ To build this project the following technologies were used:
   - [Docker](https://docs.docker.com/get-docker/)
   - [IntelliJ Community](https://www.jetbrains.com/help/idea/installation-guide.html)
   - [Postgres Docker Hub](https://hub.docker.com/_/postgres)
-  - [Spring Boot](https://start.spring.io/](https://start.spring.io/)
+  - [Spring](https://start.spring.io/](https://start.spring.io/)
   - [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli)
 
 ## :rocket: Installing
@@ -44,15 +44,15 @@ Heroku was used to publish this project, and you can see it clicking on the link
 
 ### PMD
 
-+ https://pmd.github.io/pmd-6.8.0/index.html
+- https://pmd.github.io/pmd-6.8.0/index.html
 
 ### Checkstyle
 
-+ https://checkstyle.org/
+- https://checkstyle.org/
 
-+ https://checkstyle.org/google_style.html
+- https://checkstyle.org/google_style.html
 
-+ http://google.github.io/styleguide/javaguide.html
+- http://google.github.io/styleguide/javaguide.html
 
 
 <p align="right">
