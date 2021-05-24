@@ -42,11 +42,11 @@ Heroku was used to publish this project, and you can see it clicking on the link
   
 ## :mag_right: Code Quality
 
-## PMD
+# PMD
 
 - https://pmd.github.io/pmd-6.8.0/index.html
 
-## Checkstyle
+# Checkstyle
 
 - https://checkstyle.org/
 
