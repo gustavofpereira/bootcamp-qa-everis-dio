@@ -1,5 +1,5 @@
 <h1 align="center">
-:large_orange_circle: Building a Rest API for querying Brazilian cities :large_orange_square:
+:large_orange_diamond: Building a Rest API for querying Brazilian cities :large_orange_diamond:
 </h1>
 
 <h2 align="center">
