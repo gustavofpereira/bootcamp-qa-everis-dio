@@ -42,11 +42,11 @@ Heroku was used to publish this project, and you can see it clicking on the link
   
 ## :mag_right: Code Quality
 
-# PMD
+### PMD (Source code analyzer that finds common programming flaws)
 
 - https://pmd.github.io/pmd-6.8.0/index.html
 
-# Checkstyle
+### Checkstyle (automates the process of checking Java code - class design problems, method design problems, code layout, and formatting issues)
 
 - https://checkstyle.org/
 
