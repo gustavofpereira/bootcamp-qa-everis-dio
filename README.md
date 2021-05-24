@@ -19,7 +19,7 @@ To build this project the following technologies were used:
   - [Docker](https://docs.docker.com/get-docker/)
   - [IntelliJ Community](https://www.jetbrains.com/help/idea/installation-guide.html)
   - [Postgres Docker Hub](https://hub.docker.com/_/postgres)
-  - [Spring](https://start.spring.io/](https://start.spring.io/)
+  - [Spring Boot](https://start.spring.io/)
   - [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli)
 
 ## :rocket: Installing
