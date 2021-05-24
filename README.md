@@ -28,16 +28,17 @@ Just clone this repository:
 
   `$ git clone https://github.com/gustavofpereira/bootcamp-qa-everis-dio.git`
   
+ And follow [cities-api](https://github.com/andrelugomes/digital-innovation-one/tree/master/cities-api) for further instructions.
+  
 ## :globe_with_meridians: Deploying
   
 Heroku was used to publish this project, and you can see it clicking on the link below:
 
-  - [https://instagram-class.herokuapp.com](https://instagram-class.herokuapp.com)
+  - [How to Deploy a Static Site to Heroku](https://blog.teamtreehouse.com/deploy-static-site-heroku)
 
 ## :books: Sharing
   
   - [@andrelugomes - trainer/source code](https://github.com/andrelugomes/digital-innovation-one/tree/master/cities-api)
-  - [How to Deploy a Static Site to Heroku](https://blog.teamtreehouse.com/deploy-static-site-heroku)
   
 ## :mag_right: Code Quality
 
