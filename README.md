@@ -1,5 +1,5 @@
 <h1 align="center">
-:large_orange_diamond: Building a Rest API for querying Brazilian cities :large_orange_diamond:
+:large_green_diamond: Building a Rest API for querying Brazilian cities :large_green_diamond:
 </h1>
 
 <h2 align="center">
@@ -7,7 +7,7 @@
 </h2>
 
 <p>
-This repository was created as part of Bootcamp "<a href=https://www.everis.com/global/en>everis</a> Quality Assurance Beginner" by Digital Innovation One with the objective to build a REST API
+This repository was created as part of Bootcamp "<a href=https://www.everis.com/global/en>everis</a> Quality Assurance Beginner" by Digital Innovation One with the objective to build a REST API.
 
 ## :globe_with_meridians: Source
   
@@ -15,7 +15,33 @@ This repository was created as part of Bootcamp "<a href=https://www.everis.com/
 
 [Click to sign to Digital Innovation One](https://digitalinnovation.one/sign-up?ref=H395IYS4Z6)  
 
+## :globe_with_meridians: Deploying
+  
+Heroku was used to publish this project, and you can see it clicking on the link below:
 
+  - [https://instagram-class.herokuapp.com](https://instagram-class.herokuapp.com)
+
+## :computer: Technologies
+
+To build this project the following technologies were used:
+
+  - [Html5](https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5)
+  - [CSS3](https://www.w3schools.com/css/)
+  - [JavaScript](https://javascript.info/)
+
+## :rocket: Installing
+
+Just clone this repository in the folder that you want and run index.html on browser:
+
+  `$ git clone https://github.com/gustavofpereira/instagram-class.git`
+  
+## :books: Sharing
+
+Please, find bellow a guide to publish at Heroku´s platform:
+
+  - [How to Deploy a Static Site to Heroku](https://blog.teamtreehouse.com/deploy-static-site-heroku)
+  
+  
 # Cities API
 
 ## Requirements
@@ -131,3 +157,7 @@ select earth_distance(
 ```shell script
 wget https://raw.githubusercontent.com/checkstyle/checkstyle/master/src/main/resources/google_checks.xml
 ```
+
+<p align="right">
+    <a href="https://github.com/gustavofpereira"><img alt="tagcat" src="https://github.com/gustavofpereira/gustavofpereira/blob/main/tagcat.png" width="140"></a>
+</p>
