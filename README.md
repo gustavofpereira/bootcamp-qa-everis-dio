@@ -3,7 +3,7 @@
 </h1>
 
 <h2 align="center">
-  everis Quality Assurance Beginner by <a href=https://digitalinnovation.one/>Digital Innovation One</a>
+  <a href=https://www.everis.com/global/en>everis</a> Quality Assurance Beginner by <a href=https://digitalinnovation.one/>Digital Innovation One</a>
 </h2>
 
 <p>
