@@ -49,7 +49,7 @@ Heroku was used to publish this project, and you can see it clicking on the link
 ### Checkstyle (automates the process of checking Java code - class design problems, method design problems, code layout, and formatting issues)
 
 - [Checkstyle](https://checkstyle.org/)
-- [Google's Java Style configuration](https://checkstyle.org/google_style.html)
+- [Google's Java Style Configuration](https://checkstyle.org/google_style.html)
 - [Google's Java Style Guide](http://google.github.io/styleguide/javaguide.html)
 
 
