@@ -9,13 +9,6 @@
 <p>
 This repository was created as part of Bootcamp "<a href=https://www.everis.com/global/en>everis</a> Quality Assurance Beginner" by Digital Innovation One with the objective to build a REST API.
 
-
-## :globe_with_meridians: Deploying
-  
-Heroku was used to publish this project, and you can see it clicking on the link below:
-
-  - [https://instagram-class.herokuapp.com](https://instagram-class.herokuapp.com)
-
 ## :computer: Technologies
 
 To build this project the following technologies were used:
@@ -35,11 +28,16 @@ Just clone this repository:
 
   `$ git clone https://github.com/gustavofpereira/bootcamp-qa-everis-dio.git`
   
+## :globe_with_meridians: Deploying
+  
+Heroku was used to publish this project, and you can see it clicking on the link below:
+
+  - [https://instagram-class.herokuapp.com](https://instagram-class.herokuapp.com)
+
 ## :books: Sharing
   
   - [@andrelugomes - trainer/source code](https://github.com/andrelugomes/digital-innovation-one/tree/master/cities-api)
   - [How to Deploy a Static Site to Heroku](https://blog.teamtreehouse.com/deploy-static-site-heroku)
-  
   
 ## :mag_right: Code Quality
 
