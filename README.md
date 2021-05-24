@@ -1,3 +1,21 @@
+<h1 align="center">
+:large_orange_diamond: Building a Rest API for querying Brazilian cities :large_orange_diamond:
+</h1>
+
+<h2 align="center">
+  everis Quality Assurance Beginner by <a href=https://digitalinnovation.one/>Digital Innovation One</a>
+</h2>
+
+<p>
+This repository was created as part of Bootcamp "<a href=https://www.everis.com/global/en>everis</a> Quality Assurance Beginner" by Digital Innovation One with the objective to build a REST API
+
+## :globe_with_meridians: Source
+  
+## Digital Innovation One
+
+[Click to sign to Digital Innovation One](https://digitalinnovation.one/sign-up?ref=H395IYS4Z6)  
+
+
 # Cities API
 
 ## Requirements
